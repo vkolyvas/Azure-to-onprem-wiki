@@ -3,8 +3,9 @@ Bacula is an enterprise-grade backup solution.
 
 Installation (Ubuntu)
 bash
-sudo apt update
-sudo apt install -y bacula-server bacula-client bacula-console
+``` sudo apt update``` 
+``` sudo apt install -y bacula-server bacula-client bacula-console``` 
+
 Configuration
 Configure Bacula Director, Storage Daemon, and File Daemon in their respective config files.
 
