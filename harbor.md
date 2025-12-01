@@ -12,7 +12,7 @@ Harbor is a cloud-native container registry with security features.\
 
 bash
 ```./install.sh```\
-**Configuration**\
+**Configuration**
 - Access the Harbor UI and create projects.
 
 - Enable vulnerability scanning and configure scanners.
