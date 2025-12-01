@@ -1,5 +1,5 @@
 # Bacula – Installation & Configuration
-Bacula is an enterprise-grade backup solution.\
+Bacula is an enterprise-grade backup solution.
 
 **Installation (Ubuntu)**\
 bash
