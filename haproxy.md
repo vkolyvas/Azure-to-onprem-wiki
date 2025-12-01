@@ -6,10 +6,10 @@
 
 Edit ```/etc/haproxy/haproxy.cfg``` to define:
 
--Frontends
+- Frontends
 
--Backends
+- Backends
 
--Health checks
+- Health checks
 
 Restart service.
