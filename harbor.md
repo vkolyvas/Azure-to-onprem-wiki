@@ -11,12 +11,12 @@ Harbor is a cloud-native container registry with security features.\
 4. Run the installer:
 
 bash
-```./install.sh```
-**Configuration**
-Access the Harbor UI and create projects.
+```./install.sh```\
+**Configuration**\
+- Access the Harbor UI and create projects.
 
-Enable vulnerability scanning and configure scanners.
+- Enable vulnerability scanning and configure scanners.
 
-Optionally enable Notary and content signing.
+- Optionally enable Notary and content signing.
 
-Configure replication rules to other registries if needed.
+- Configure replication rules to other registries if needed.
