@@ -8,7 +8,7 @@ sudo apt update
 sudo apt install -y bacula-server bacula-client bacula-console
 ``` 
 
-**Configuration**\
+**Configuration**
 - Configure Bacula Director, Storage Daemon, and File Daemon in their respective config files.
 
 - Define backup jobs, file sets, and schedules.
