@@ -1,5 +1,5 @@
 # Apache Superset – Installation & Configuration (On Premise)
-Apache Superset is an open-source BI and data visualization platform.
+Apache Superset is an open-source BI and data visualization platform.\
 **Prerequisites**
 - Linux server (Ubuntu 22.04 recommended)
 - Python 3.9+
