@@ -1,5 +1,5 @@
 # MongoDB – Installation & Configuration
-MongoDB is a document database.\
+MongoDB is a document database.
 
 **Installation (Ubuntu)**
 bash
