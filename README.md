@@ -7,7 +7,7 @@ This repository contains installation and configuration guides for open‑source
 The diagram below illustrates the system architecture.
 
 **Files:**
-- `onprem_architecture.drawio`
+- `azure_fabric_llm.drawio`
 - `azure_fabric_llm.drawio.png`
 
 ![Architecture](azure_fabric_llm.drawio.png)
